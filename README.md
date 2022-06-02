@@ -1,2 +1,2 @@
-# docs_p12
-Documentation SportSee
+# Documentation realisée par JsDoc pour le PROJET-12 "SportSee" : Openclassrooms
+
